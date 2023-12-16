@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CorrPharma</string>
+    <string name="titre">Pharmacies de garde</string>
+<string-array name="lstQuartiers">
+    <item>Hay Riad</item>
+    <item>Hay Nahda</item>
+    <item>Takeddoum</item>
+    <item>Youssoufia</item>
+</string-array>
+</resources>
